@@ -1,0 +1,123 @@
+Borough,Neighborhood,ID,Name
+Bronx,Eastchester,50f9fef3e4b0c2329117b8a8,Yumi Asian Bistro & Hibachi Steak House
+Bronx,Eastchester,4c0dac537189c928c871d7b6,Jimmy's Best Chinese Restaurant
+Bronx,Morris Heights,4babfacaf964a5203bdb3ae3,Chop Chop
+Bronx,Mott Haven,4f9de99ae4b08ea03a934ce3,Ceetay
+Bronx,Throgs Neck,4bbe0e0407809521db5bdb91,Green Dragon
+Bronx,Country Club,4c1a6b7ab9f876b0dca17846,Shangri-La
+Bronx,Parkchester,4c472be3972c0f4711ec2221,Neerob
+Bronx,Westchester Square,52cb509a498e293c772db273,Kai Asian Fusion
+Bronx,Morris Park,52cb509a498e293c772db273,Kai Asian Fusion
+Bronx,Pelham Bay,4c1a6b7ab9f876b0dca17846,Shangri-La
+Bronx,Edgewater Park,4bbe0e0407809521db5bdb91,Green Dragon
+Bronx,Unionport,4c472be3972c0f4711ec2221,Neerob
+Brooklyn,Bay Ridge,4b45ff1df964a520d31326e3,Chopstix Restaurant
+Brooklyn,Bensonhurst,4af99885f964a5207d1222e3,Bamboo Pavilion
+Brooklyn,Sunset Park,4e9cd127722e2953f772740e,Mister Hot Pot 鍋大爺
+Brooklyn,Sunset Park,51212ff7e4b0841eecdbbcd3,ASEA
+Brooklyn,Sunset Park,4b26da42f964a520ff8124e3,Wong Wong Noodle Soup Inc.
+Brooklyn,Sunset Park,4bb0d57bf964a52059613ce3,Gia Lam
+Brooklyn,Gravesend,51ddf34a498ee78bcffbb41b,Famous Chinese
+Brooklyn,Brighton Beach,4b280f8cf964a520698e24e3,Cafe Kashkar
+Brooklyn,Brownsville,57c738f4498efbcf1a4471b1,Arashi Sushi
+Brooklyn,Bushwick,545ecd4b498eefe9c0237723,Little Mo
+Brooklyn,Brooklyn Heights,5330e34e498e36f70456a24b,Saketumi Asian Bistro
+Brooklyn,Manhattan Beach,51564463e4b0ac3437e25da3,Cafe Rokhat
+Brooklyn,Bath Beach,4adcda72f964a520504521e3,Kowloon Cafe
+Brooklyn,Bath Beach,4bf6ef43508c0f4797123d31,Asian kitchen
+Brooklyn,Dyker Heights,4b45ff1df964a520d31326e3,Chopstix Restaurant
+Brooklyn,Downtown,5a87210eda5ede7ae86f82c6,Korilla BBQ
+Brooklyn,Prospect Park South,54077800498ed3ee81d54fd7,Hunger Pang
+Brooklyn,Fort Hamilton,4c49b9d83013a59369d722e3,Win Hing Chinese Cuisine
+Manhattan,Chinatown,574f2ae0498ec2a700651b95,Simple
+Manhattan,Chinatown,591b9e948496ca6e22cdd3f6,Ramen Ishida
+Manhattan,Washington Heights,4babfacaf964a5203bdb3ae3,Chop Chop
+Manhattan,Yorkville,579fb23f498e7f9f1b7bd04c,Peng's Noodle Folk
+Manhattan,Upper West Side,573133a7498e5a92b8615cfd,Flame
+Manhattan,Clinton,5c8736c0178a2a002cf4adce,Kawi
+Manhattan,Chelsea,523c7e56498ef9332c5ce675,TAO Downtown
+Manhattan,East Village,53e80aae498ecbb68d4c572b,Tuome
+Manhattan,East Village,4acca438f964a5201dc920e3,Momofuku Ssäm Bar
+Manhattan,Lower East Side,591b9e948496ca6e22cdd3f6,Ramen Ishida
+Manhattan,Lower East Side,5744f4ad498e346b596e9fa3,Duckedup
+Manhattan,Lower East Side,53e80aae498ecbb68d4c572b,Tuome
+Manhattan,Tribeca,49cebdeaf964a520815a1fe3,Macao Trading Co.
+Manhattan,Tribeca,51df85c9498edb5ea3ad2e2a,Khe-Yo
+Manhattan,Little Italy,574f2ae0498ec2a700651b95,Simple
+Manhattan,Little Italy,49cebdeaf964a520815a1fe3,Macao Trading Co.
+Manhattan,Soho,49cebdeaf964a520815a1fe3,Macao Trading Co.
+Manhattan,Gramercy,4acca438f964a5201dc920e3,Momofuku Ssäm Bar
+Queens,Jackson Heights,538fa0b1498e0368466178f3,Saw Shack
+Queens,Jackson Heights,4d6d7ebcfbf0a0934fc7008d,Lali Guras Restaurant
+Queens,Elmhurst,4d6d7ebcfbf0a0934fc7008d,Lali Guras Restaurant
+Queens,Elmhurst,56b25deb498ebc3a62af6179,Little House Cafe
+Queens,Elmhurst,538fa0b1498e0368466178f3,Saw Shack
+Queens,Forest Hills,4eb6fa550aaf1abedff6cba5,MoCA Asian Bistro
+Queens,Forest Hills,5843830606f1a34af891acfb,Mito Asian Fusion
+Queens,Forest Hills,4d656149072a6ea8d5befc4d,Asian Bowl
+Queens,Kew Gardens,4cf6a933d3a8a1cd3d90d243,China Garden
+Queens,Flushing,4b89832df964a520a23d32e3,Peking Duck Sandwich Stall
+Queens,Flushing,4b082b3df964a520530523e3,Good Kitchen Restaurant
+Queens,Flushing,4d5c7c46e7f75481e1f31a97,趙記港式雲吞粥粉麵飯
+Queens,Flushing,4ea4a75d722ec75adf3ebf8b,Ming Xing BBQ
+Queens,Sunnyside,54e0f288498ef4224091ca4c,Dumplings & Things
+Queens,Maspeth,4d8939167d4c54812ac94f71,Super Bowl
+Queens,Rego Park,5843830606f1a34af891acfb,Mito Asian Fusion
+Queens,Rego Park,4d656149072a6ea8d5befc4d,Asian Bowl
+Queens,Woodhaven,4bb8c1633db7b713ac90219a,Mama Meena's Family Restaurant
+Queens,College Point,4cdb41696ad1a093c02ceb56,Canaan Restaurant
+Queens,Whitestone,4c6c31bee6b7b1f7af55a68e,Green Garden Chinese
+Queens,Bayside,4e4c5f9dae60bb501264bd69,Tanko
+Queens,Bayside,4bac2209f964a52042e63ae3,Pho 32 & Shabu
+Queens,Bayside,4da9c8614b22f071eaa7aefe,넌 짜장 난 짬뽕
+Queens,Little Neck,4ca2738b554b236a0c441e48,H-Plaza Food Court
+Queens,Glen Oaks,4d9747a3e07ea35d49c0d402,Hi Tea Hong Kong Style Cafe
+Queens,Fresh Meadows,4ae3a4d6f964a5209d9721e3,Tokyo Steak
+Queens,Fresh Meadows,4f370f43e4b0ea2d7d8cfb0a,Dai Wong
+Queens,Oakland Gardens,529a8f8c11d208de62423f05,Hot Ginger
+Queens,Hollis,4c1253b7a5eb76b065ecbdb7,Cindee's Bakery
+Queens,Rochdale,4ff9c41be4b0cc077f115253,East Ming Dragon Restaurant
+Queens,Steinway,5834f3a437da1d46fb028a5e,Rice K
+Queens,Edgemere,4e4e41d9bd4101d0d7a61f1d,New Garden Restaurant
+Queens,Murray Hill,5bc4fd4b18d43b002c39c5f0,Yummy Tummy Asian Bistro
+Queens,Murray Hill,4b64e355f964a5209cd72ae3,Chinese House 중국집
+Queens,Floral Park,4bb52e681344b713e3f99b04,Masala 2 Wok
+Queens,Queensboro Hill,4bec7befb68520a1fb301287,Asian Gourmet Restaurant
+Queens,Queensboro Hill,516a0508e4b0648c480168df,乐滔轩
+Queens,Queensboro Hill,550f4aee498e6f26c6372780,guan dong yi jia
+Queens,Hillcrest,4b92cda9f964a520531d34e3,Green Lotus Asian Cuisine
+Queens,Forest Hills Gardens,4eb6fa550aaf1abedff6cba5,MoCA Asian Bistro
+Staten Island,Stapleton,4dc5e9c3887717c88030d15c,Bay House Bistro
+Staten Island,New Dorp,4ba95707f964a5203a203ae3,Empire East
+Staten Island,New Dorp,5738dace498ed8ebd77275f4,Simple Asia
+Staten Island,Oakwood,4ba95707f964a5203a203ae3,Empire East
+Brooklyn,Ditmas Park,54077800498ed3ee81d54fd7,Hunger Pang
+Staten Island,Westerleigh,4babeca6f964a520ded53ae3,China New Star
+Staten Island,Westerleigh,4eb6feaf8b81a81f91381c41,Hibachi Grill & Supreme Buffet
+Staten Island,Westerleigh,586b09b46431e533bfe6f886,Flaming Grill& Supreme Buffet
+Staten Island,Graniteville,4babeca6f964a520ded53ae3,China New Star
+Staten Island,Dongan Hills,4c085a77ffb8c9b64d366861,Chen's Restaurant
+Staten Island,Midland Beach,4cab976da6e08cfa21eba694,Bay House
+Staten Island,Grant City,5738dace498ed8ebd77275f4,Simple Asia
+Staten Island,Grant City,4cab976da6e08cfa21eba694,Bay House
+Staten Island,New Dorp Beach,4ba95707f964a5203a203ae3,Empire East
+Staten Island,Huguenot,4bf9d5174a67c9284e8e27cf,Chopsticks House
+Staten Island,Butler Manor,4e4cc36ebd413c4cc66bf944,Chef Hong
+Staten Island,Greenridge,4c72eedb9e706dcbe12f4c62,Oriental Taste
+Staten Island,Heartland Village,4ba3caf9f964a520e55f38e3,East Pacific
+Manhattan,Noho,591b9e948496ca6e22cdd3f6,Ramen Ishida
+Manhattan,Noho,53e80aae498ecbb68d4c572b,Tuome
+Manhattan,Civic Center,51df85c9498edb5ea3ad2e2a,Khe-Yo
+Manhattan,Civic Center,49cebdeaf964a520815a1fe3,Macao Trading Co.
+Staten Island,Elm Park,4babeca6f964a520ded53ae3,China New Star
+Staten Island,Elm Park,4eb6feaf8b81a81f91381c41,Hibachi Grill & Supreme Buffet
+Staten Island,Elm Park,586b09b46431e533bfe6f886,Flaming Grill& Supreme Buffet
+Brooklyn,Paerdegat Basin,4bf49b526a31d13a0608962e,Double Dragon Chinese Food
+Queens,Utopia,4b92cda9f964a520531d34e3,Green Lotus Asian Cuisine
+Queens,Utopia,4ae3a4d6f964a5209d9721e3,Tokyo Steak
+Queens,Hunters Point,4b47eb5cf964a520f54326e3,SHI
+Queens,Hunters Point,5112f745e4b095315641c547,Shi To Go
+Queens,Sunnyside Gardens,54e0f288498ef4224091ca4c,Dumplings & Things
+Brooklyn,Homecrest,52d873be498e14a2bf838f0c,Fuciaana Asian Food & Crystal Grill
+Staten Island,Richmond Valley,4e4cc36ebd413c4cc66bf944,Chef Hong
+Manhattan,Hudson Yards,5c8736c0178a2a002cf4adce,Kawi

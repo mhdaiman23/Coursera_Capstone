@@ -1,0 +1,60 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Bronx,Eastchester,50f9fef3e4b0c2329117b8a8,Yumi Asian Bistro & Hibachi Steak House,40,7.9,16
+Bronx,Eastchester,4c0dac537189c928c871d7b6,Jimmy's Best Chinese Restaurant,7,6.5,4
+Bronx,Morris Heights,4babfacaf964a5203bdb3ae3,Chop Chop,7,7.1,9
+Bronx,Mott Haven,4f9de99ae4b08ea03a934ce3,Ceetay,55,8.1,33
+Bronx,Throgs Neck,4bbe0e0407809521db5bdb91,Green Dragon,10,7.6,7
+Bronx,Country Club,4c1a6b7ab9f876b0dca17846,Shangri-La,36,8.0,21
+Bronx,Parkchester,4c472be3972c0f4711ec2221,Neerob,21,7.4,15
+Bronx,Westchester Square,52cb509a498e293c772db273,Kai Asian Fusion,17,6.9,6
+Bronx,Morris Park,52cb509a498e293c772db273,Kai Asian Fusion,17,6.9,6
+Bronx,Pelham Bay,4c1a6b7ab9f876b0dca17846,Shangri-La,36,8.0,21
+Bronx,Edgewater Park,4bbe0e0407809521db5bdb91,Green Dragon,10,7.6,7
+Bronx,Unionport,4c472be3972c0f4711ec2221,Neerob,21,7.4,15
+Brooklyn,Bay Ridge,4b45ff1df964a520d31326e3,Chopstix Restaurant,34,8.1,28
+Brooklyn,Bensonhurst,4af99885f964a5207d1222e3,Bamboo Pavilion,5,6.2,3
+Brooklyn,Sunset Park,4e9cd127722e2953f772740e,Mister Hot Pot 鍋大爺,91,8.0,35
+Brooklyn,Sunset Park,51212ff7e4b0841eecdbbcd3,ASEA,23,7.7,15
+Brooklyn,Sunset Park,4b26da42f964a520ff8124e3,Wong Wong Noodle Soup Inc.,5,6.6,5
+Brooklyn,Sunset Park,4bb0d57bf964a52059613ce3,Gia Lam,12,6.5,13
+Brooklyn,Gravesend,0,0,0,0.0,0
+Brooklyn,Brighton Beach,4b280f8cf964a520698e24e3,Cafe Kashkar,104,8.8,39
+Brooklyn,Brownsville,0,0,0,0.0,0
+Brooklyn,Bushwick,545ecd4b498eefe9c0237723,Little Mo,212,8.9,39
+Brooklyn,Brooklyn Heights,5330e34e498e36f70456a24b,Saketumi Asian Bistro,29,8.0,6
+Brooklyn,Manhattan Beach,51564463e4b0ac3437e25da3,Cafe Rokhat,7,6.4,7
+Brooklyn,Bath Beach,4adcda72f964a520504521e3,Kowloon Cafe,26,6.5,19
+Brooklyn,Bath Beach,0,0,0,0.0,0
+Brooklyn,Dyker Heights,4b45ff1df964a520d31326e3,Chopstix Restaurant,34,8.1,28
+Brooklyn,Downtown,5a87210eda5ede7ae86f82c6,Korilla BBQ,26,7.9,4
+Brooklyn,Prospect Park South,54077800498ed3ee81d54fd7,Hunger Pang,79,8.6,25
+Brooklyn,Fort Hamilton,4c49b9d83013a59369d722e3,Win Hing Chinese Cuisine,3,6.8,5
+Manhattan,Chinatown,574f2ae0498ec2a700651b95,Simple,162,9.2,46
+Manhattan,Chinatown,591b9e948496ca6e22cdd3f6,Ramen Ishida,58,9.2,13
+Manhattan,Washington Heights,4babfacaf964a5203bdb3ae3,Chop Chop,7,7.1,9
+Manhattan,Yorkville,579fb23f498e7f9f1b7bd04c,Peng's Noodle Folk,55,8.5,19
+Manhattan,Upper West Side,573133a7498e5a92b8615cfd,Flame,62,8.0,16
+Manhattan,Clinton,5c8736c0178a2a002cf4adce,Kawi,42,9.1,10
+Manhattan,Chelsea,523c7e56498ef9332c5ce675,TAO Downtown,1106,8.7,185
+Manhattan,East Village,53e80aae498ecbb68d4c572b,Tuome,283,8.9,88
+Manhattan,East Village,4acca438f964a5201dc920e3,Momofuku Ssäm Bar,1492,9.1,527
+Manhattan,Lower East Side,591b9e948496ca6e22cdd3f6,Ramen Ishida,58,9.2,13
+Manhattan,Lower East Side,5744f4ad498e346b596e9fa3,Duckedup,24,8.7,3
+Manhattan,Lower East Side,53e80aae498ecbb68d4c572b,Tuome,283,8.9,88
+Manhattan,Tribeca,49cebdeaf964a520815a1fe3,Macao Trading Co.,726,8.9,230
+Manhattan,Tribeca,51df85c9498edb5ea3ad2e2a,Khe-Yo,397,8.6,135
+Manhattan,Little Italy,574f2ae0498ec2a700651b95,Simple,162,9.2,46
+Manhattan,Little Italy,49cebdeaf964a520815a1fe3,Macao Trading Co.,726,8.9,230
+Manhattan,Soho,49cebdeaf964a520815a1fe3,Macao Trading Co.,726,8.9,230
+Manhattan,Gramercy,4acca438f964a5201dc920e3,Momofuku Ssäm Bar,1492,9.1,527
+Queens,Jackson Heights,538fa0b1498e0368466178f3,Saw Shack,12,7.7,4
+Queens,Jackson Heights,4d6d7ebcfbf0a0934fc7008d,Lali Guras Restaurant,41,8.6,22
+Queens,Elmhurst,4d6d7ebcfbf0a0934fc7008d,Lali Guras Restaurant,41,8.6,22
+Queens,Elmhurst,56b25deb498ebc3a62af6179,Little House Cafe,8,7.7,3
+Queens,Elmhurst,538fa0b1498e0368466178f3,Saw Shack,12,7.7,4
+Queens,Forest Hills,4eb6fa550aaf1abedff6cba5,MoCA Asian Bistro,47,8.1,31
+Queens,Forest Hills,5843830606f1a34af891acfb,Mito Asian Fusion,20,7.8,3
+Queens,Forest Hills,4d656149072a6ea8d5befc4d,Asian Bowl,8,6.7,9
+Queens,Kew Gardens,0,0,0,0.0,0
+Queens,Flushing,4b89832df964a520a23d32e3,Peking Duck Sandwich Stall,24,8.3,14
+Queens,Flushing,4b082b3df964a520530523e3,Good Kitchen Restaurant,67,7.5,29
